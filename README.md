@@ -22,3 +22,7 @@ To run this project on your local machine:
 ### 1. Clone the Repository:
 ```bash
 git clone <YOUR_REPOSITORY_URL>
+cd <your_project_directory>
+npm install
+npm start
+
