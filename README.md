@@ -19,6 +19,14 @@ A modern weather forecast web application built using React. The app provides re
 
 To run this project on your local machine:
 
+## API Configuration
+This project uses two APIs: the OpenWeatherMap API for weather data and the GeoDB Cities API for city searches. Below are the details for the API keys and configuration.
+
+GeoDB Cities API: This API is used to fetch city suggestions while the user searches for a location.
+
+API Key: Stored in the geoApiOptions object in the src/components/Api.js file.
+ 
+
 ### 1. Clone the Repository:
 ```bash
 git clone <YOUR_REPOSITORY_URL>
