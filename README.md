@@ -11,11 +11,12 @@ A modern weather forecast web application built using React. The app provides re
 
 ## Screenshots
 
-### Weather App Screenshot 1
-![Weather App](./screenshots/Screenshot_2024-10-20_113740.png)
+### Create a New Rule
+![Create Rule](screenshots/Screenshot%202024-10-20%20113740.png)
 
-### Weather App Screenshot 2
-![Weather App](./screenshots/Screenshot_2024-10-20_113756.png)
+### Combine Rules
+![Combine Rules](screenshots/Screenshot%202024-10-20%20113756.png)
+
 
 
 ## Project Structure
