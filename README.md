@@ -9,6 +9,15 @@ A modern weather forecast web application built using React. The app provides re
 - Toggle between Celsius and Fahrenheit for temperature display.
 - Fully responsive design for both desktop and mobile users.
 
+## Screenshots
+
+### Weather App Screenshot 1
+![Weather App](./screenshots/Screenshot_2024-10-20_113740.png)
+
+### Weather App Screenshot 2
+![Weather App](./screenshots/Screenshot_2024-10-20_113756.png)
+
+
 ## Project Structure
 
 - **Frontend**: Built using React, with reusable components like `Navbar`, `Forecast`, `TemperatureAndDetails`, and `Inputs`.
